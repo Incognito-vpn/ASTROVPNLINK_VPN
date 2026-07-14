@@ -38,3 +38,15 @@ vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?flow=xtls-rprx-vis
 
                           
                
+vless://673d1e0c-7fe5-48bd-bca1-d0f63facc948@46.254.17.58:80?encryption=none&type=grpc&serviceName=grpc&security=none#Сервер 1 | TG: @ASTROVPNLINK
+vless://53ec84f1-cc8c-4813-906a-52f4b0e138ca@46.182.24.89:80?encryption=none&type=grpc&serviceName=grpc&security=none#Сервер 2 | TG: @ASTROVPNLINK
+vless://f99b3185-cc6d-46fa-ac76-7e35f58f7f86@31.129.42.56:80?encryption=none&type=grpc&serviceName=grpc&security=none#Сервер 3 | TG: @ASTROVPNLINK
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@185.141.227.139:9444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=tcp#Сервер 4 | TG: @ASTROVPNLINK
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@185.141.227.244:9444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=tcp#Сервер 5 | TG: @ASTROVPNLINK
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@185.141.227.118:9444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&fp=firefox&type=tcp#Сервер 6 | TG: @ASTROVPNLINK
+vless://ba48b284-6c83-46fd-ac91-91acd6262bcf@46.254.17.58:80?encryption=none&type=grpc&serviceName=grpc&security=none#Сервер 7 | TG: @ASTROVPNLINK
+vless://673d1e0c-7fe5-48bd-bca1-d0f63facc948@31.129.42.56:80?encryption=none&type=grpc&serviceName=grpc&security=none#Сервер 8 | TG: @ASTROVPNLINK
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&security=none&type=tcp#Сервер 9 | TG: @ASTROVPNLINK
+vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&fp=chrome&type=tcp#Сервер 10 | TG: @ASTROVPNLINK
+vless://c0aa0cee-e855-4bcc-9afc-46241cb17990@109.120.152.19:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=fast_s89.screw.page&fp=firefox&type=tcp#Сервер 11 | TG: @ASTROVPNLINK
+vless://881cbd87-6cc3-41f9-9d4c-303fa2f8deab@yt-noads.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=shopper.applepie-recipe.ru&fp=qq&alpn=http/1.1&type=tcp#Сервер 12 | TG: @ASTROVPNLINK
