@@ -35,3 +35,770 @@ vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?flow=xtls-rprx-vis
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eh.vk.com&echfq=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20TG%3A%20%40ASTROVPNLINK
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eh.vk.com&fp=firefox&echfq=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20TG%3A%20%40ASTROVPNLINK
 
+
+[
+  {
+    "dns": {
+      "серверы": [
+        "1.1.1.1",
+        "1.0.0.1"
+      ],
+      "queryStrategy": "UseIP"
+    },
+    "маршрутизация": {
+      "правила": [
+        {
+          "тип": "поле",
+          "протокол": [
+            "bittorrent"
+          ],
+          "outboundTag": "direct"
+        }
+      ],
+      "domainMatcher": "hybrid",
+      "domainStrategy": "IPIfNonMatch"
+    },
+    "в пределах поля": [
+      {
+        "тег": "носки",
+        "порт": 10808,
+        "слушать": "127.0.0.1",
+        "протокол": "носки",
+        "настройки": {
+          "udp": true,
+          "auth": "noauth"
+        },
+        "нюхание": {
+          "enabled": true,
+          "routeOnly": false,
+          "destOverride": [
+            "http",
+            "tls",
+            "быстро"
+          ]
+        }
+      },
+      {
+        "tag": "http",
+        "порт": 10809,
+        "слушать": "127.0.0.1",
+        "протокол": "http",
+        "настройки": {
+          "allowTransparent": false
+        },
+        "нюхание": {
+          "enabled": true,
+          "routeOnly": false,
+          "destOverride": [
+            "http",
+            "tls",
+            "быстро"
+          ]
+        }
+      }
+    ],
+    "выход за пределы страны": [
+      {
+        "тег": "прокси",
+        "протокол": "теневые носки",
+        "настройки": {
+          "серверы": [
+            {
+              "адрес": "127.0.0.1",
+              "порт": 1,
+              "пароль": "разделитель",
+              "метод": "chacha20-ietf-poly1305",
+              "uot": false,
+              "UoTVersion": 1
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          "tcpSettings": {},
+          "безопасность": "нет"
+        }
+      },
+      {
+        "тег": "прямой",
+        «протокол»: «свобода»
+      },
+      {
+        "тег": "блок",
+        «протокол»: «черная дыра»
+      }
+    ],
+    "Примечания": "✈️ ТГК: @commandvpnfree",
+    "profile_title": "[БЕСПЛАТНО] CommandVPN"
+  },
+  {
+    "dns": {
+      "серверы": [
+        {
+          "адрес": "https://77.88.8.8/dns-query",
+          "домены": [
+            "geosite:category-ru"
+          ],
+          "expectIPs": [
+            "geoip:ru"
+          ]
+        },
+        "https://1.1.1.1/dns-query",
+        "1.0.0.1"
+      ],
+      "queryStrategy": "UseIPv4"
+    },
+    "в пределах поля": [
+      {
+        "тег": "носки",
+        "порт": 10808,
+        "слушать": "127.0.0.1",
+        "протокол": "носки",
+        "настройки": {
+          "udp": true,
+          "auth": "noauth"
+        },
+        "нюхание": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "быстро"
+          ]
+        }
+      },
+      {
+        "tag": "http",
+        "порт": 10809,
+        "слушать": "127.0.0.1",
+        "протокол": "http",
+        "настройки": {
+          "allowTransparent": false
+        },
+        "нюхание": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "быстро"
+          ]
+        }
+      }
+    ],
+    "бревно": {
+      "loglevel": "warning"
+    },
+    "Примечания": "ну | WiFi",
+    "выход за пределы страны": [
+      {
+        "mux": {
+          "параллелизм": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "89.125.74.127",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision",
+                  "id": "de2edd29-c746-4dc7-a50b-e0692b01209d",
+                  "уровень": 8,
+                  "безопасность": "авто"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          "realitySettings": {
+            "allowInsecure": false,
+            "отпечаток пальца": "firefox",
+            "publicKey": "QBSuzwfPwj9OW_pE0dQc5qgqnmfjh1Y9c10fq_bLZmQ",
+            "serverName": "yahoo.com",
+            "shortId": "99bcf8d2",
+            "показать": ложно
+          },
+          «безопасность»: «реальность»,
+          "tcpSettings": {
+            "заголовок": {
+              "тип": "нет"
+            }
+          }
+        },
+        "tag": "wifi-1"
+      },
+      {
+        "tag": "wifi-2",
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "83.147.255.185",
+              "порт": 40443,
+              "пользователи": [
+                {
+                  "id": "0cc733cb-ceb9-4ee5-97f7-fdad42e16d19",
+                  "шифрование": "нет",
+                  "поток": ""
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "grpc",
+          "grpcSettings": {
+            "serviceName": "grpc",
+            "власть": "",
+            "режим": false
+          },
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "ads.x5.ru",
+            "publicKey": "CS4yIc5hLxpsoshwQW0G62m2YGCeoop_APIDgcQG3i8",
+            "отпечаток пальца": "firefox"
+          }
+        }
+      },
+      {
+        "tag": "wifi-3",
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "83.147.255.185",
+              "порт": 17443,
+              "пользователи": [
+                {
+                  "id": "0cc733cb-ceb9-4ee5-97f7-fdad42e16d19",
+                  "шифрование": "нет",
+                  "поток": ""
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "grpc",
+          "grpcSettings": {
+            "serviceName": "grpc",
+            "власть": "",
+            "режим": false
+          },
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "5post-gate.x5.ru",
+            "publicKey": "YvhcuqXRqPigT7_rp9vsV5LAdxXHN8eWB_17SchS_S8",
+            "отпечаток пальца": "firefox"
+          }
+        }
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "node5.mxvpn.dev",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "45b7070f-523b-44de-843d-597970bfbc39",
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          "tcpSettings": {},
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "node5.mxvpn.dev",
+            "publicKey": "TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw",
+            "shortId": "bbc68cec8bb8d2e3",
+            "отпечаток пальца": "firefox"
+          }
+        },
+        "tag": "wifi-4"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "node6.mxvpn.dev",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "45b7070f-523b-44de-843d-597970bfbc39",
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          "tcpSettings": {},
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "node6.mxvpn.dev",
+            "publicKey": "TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw",
+            "shortId": "bbc68cec8bb8d2e3",
+            "отпечаток пальца": "firefox"
+          }
+        },
+        "tag": "wifi-5"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "node7.mxvpn.dev",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "45b7070f-523b-44de-843d-597970bfbc39",
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          "tcpSettings": {},
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "node7.mxvpn.dev",
+            "publicKey": "TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw",
+            "shortId": "bbc68cec8bb8d2e3",
+            "отпечаток пальца": "firefox"
+          }
+        },
+        "tag": "wifi-6"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "fin.fast-cone.com",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "510a7c87-0aa0-4ead-9c9f-6e1700e12b09",
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "fin.fast-cone.com",
+            "publicKey": "xIbs1fXscfNgz_ZIzg8XEG0iPoZnl9HUn9kkKvDyDho",
+            "отпечаток пальца": "край",
+            "shortId": "14",
+            "spiderX": "/"
+          },
+          "tcpSettings": {
+            "заголовок": {
+              "тип": "нет"
+            }
+          }
+        },
+        "tag": "wifi-7"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "85.198.87.78",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "e5573bd4-6b10-4010-a67d-54ea2b51e8bf",
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "dzen.ru",
+            "publicKey": "olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA",
+            "отпечаток пальца": "firefox",
+            "shortId": "7c83683ed7507a69"
+          },
+          "tcpSettings": {
+            "заголовок": {
+              "тип": "нет"
+            }
+          }
+        },
+        "tag": "wifi-8"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "fin-01.node.lumixnet.com",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "56ae4ec4-6705-43d0-bf3a-bc36ab3b3545",
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "fin-01.node.lumixnet.com",
+            "publicKey": "vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A",
+            "отпечаток пальца": "hellochrome_120",
+            "shortId": "bd8a588cebc3395a"
+          },
+          "tcpSettings": {
+            "заголовок": {
+              "тип": "нет"
+            }
+          }
+        },
+        "tag": "wifi-9"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "address": "fin.themesh.site",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "6fa9f6ae-877b-4858-b128-a8377fd9038b",
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "fin.themesh.site",
+            "publicKey": "yocysajpuAGT059wla3OHEQZ8yNQt8heojZuYM2MkSY",
+            "отпечаток пальца": "firefox",
+            "shortId": "8ccda4d8bbe0b881"
+          },
+          "tcpSettings": {
+            "заголовок": {
+              "тип": "нет"
+            }
+          }
+        },
+        "tag": "wifi-10"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "node10.mxvpn.dev",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "45b7070f-523b-44de-843d-597970bfbc39",
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          "tcpSettings": {},
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "node10.mxvpn.dev",
+            "publicKey": "TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw",
+            "shortId": "bbc68cec8bb8d2e3",
+            "отпечаток пальца": "firefox"
+          }
+        },
+        "tag": "wifi-11"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "node11.mxvpn.dev",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "45b7070f-523b-44de-843d-597970bfbc39",
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          "tcpSettings": {},
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "node11.mxvpn.dev",
+            "publicKey": "TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw",
+            "shortId": "bbc68cec8bb8d2e3",
+            "отпечаток пальца": "firefox"
+          }
+        },
+        "tag": "wifi-12"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "sentinel.unlimitedprojects.fun",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "6fa1b8eb-56f4-4f41-97dc-e0185bcfc575",
+                  "шифрование": "нет",
+                  "поток": ""
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "xhttpSettings": {
+            "режим": "авто",
+            "host": "sentinel.unlimitedprojects.fun",
+            "путь": "/api/v1/data"
+          },
+          "безопасность": "tls",
+          "tlsSettings": {
+            "serverName": "sentinel.unlimitedprojects.fun",
+            "отпечаток пальца": "firefox",
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ]
+          }
+        },
+        "tag": "wifi-13"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "cze-02.node.lumixnet.com",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "56ae4ec4-6705-43d0-bf3a-bc36ab3b3545",
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "cze-02.node.lumixnet.com",
+            "publicKey": "vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A",
+            "отпечаток пальца": "hellochrome_120",
+            "shortId": "bd8a588cebc3395a"
+          },
+          "tcpSettings": {
+            "заголовок": {
+              "тип": "нет"
+            }
+          }
+        },
+        "tag": "wifi-14"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "cze-01.node.lumixnet.com",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "56ae4ec4-6705-43d0-bf3a-bc36ab3b3545",
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "cze-01.node.lumixnet.com",
+            "publicKey": "vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A",
+            "отпечаток пальца": "край",
+            "shortId": "bd8a588cebc3395a"
+          },
+          "tcpSettings": {
+            "заголовок": {
+              "тип": "нет"
+            }
+          }
+        },
+        "tag": "wifi-15"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "node.mxvpn.dev",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "45b7070f-523b-44de-843d-597970bfbc39",
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          "tcpSettings": {},
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "node.mxvpn.dev",
+            "publicKey": "TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw",
+            "shortId": "bbc68cec8bb8d2e3",
+            "отпечаток пальца": "firefox"
+          }
+        },
+        "tag": "wifi-16"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "node1.mxvpn.dev",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "45b7070f-523b-44de-843d-597970bfbc39",
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "сеть": "tcp",
+          "tcpSettings": {},
+          «безопасность»: «реальность»,
+          "realitySettings": {
+            "serverName": "node1.mxvpn.dev",
+            "publicKey": "TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw",
+            "shortId": "bbc68cec8bb8d2e3",
+            "отпечаток пальца": "firefox"
+          }
+        },
+        "tag": "wifi-17"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "адрес": "jemmy.unlimitedprojects.fun",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "6fa1b8eb-56f4-4f41-97dc-e0185bcfc575",
+                  "шифрование": "нет",
+                  "поток": ""
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "xhttpSettings": {
+            "режим": "авто",
+            "host": "jemmy.unlimitedprojects.fun",
+            "путь": "/api/v1/data"
+          },
+          "безопасность": "tls",
+          "tlsSettings": {
+            "serverName": "jemmy.unlimitedprojects.fun",
+            "отпечаток пальца": "firefox",
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ]
+          }
+        },
+        "tag": "wifi-18"
+      },
+      {
+        "протокол": "vless",
+        "настройки": {
+          "vnext": [
+            {
+              "address": "rus.unlimitedteam.space",
+              "порт": 443,
+              "пользователи": [
+                {
+                  "id": "6fa1b8eb-56f4-4f41-97dc-e0185bcfc575",
+                  "шифрование": "нет",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+ 
