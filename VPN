@@ -36,17 +36,10 @@ vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?flow=xtls-rprx-vis
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eh.vk.com&fp=firefox&echfq=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20TG%3A%20%40ASTROVPNLINK
 
 
-                          
-               
-vless://673d1e0c-7fe5-48bd-bca1-d0f63facc948@46.254.17.58:80?encryption=none&type=grpc&serviceName=grpc&security=none#Сервер 1 | TG: @ASTROVPNLINK
-vless://53ec84f1-cc8c-4813-906a-52f4b0e138ca@46.182.24.89:80?encryption=none&type=grpc&serviceName=grpc&security=none#Сервер 2 | TG: @ASTROVPNLINK
-vless://f99b3185-cc6d-46fa-ac76-7e35f58f7f86@31.129.42.56:80?encryption=none&type=grpc&serviceName=grpc&security=none#Сервер 3 | TG: @ASTROVPNLINK
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@185.141.227.139:9444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=tcp#Сервер 4 | TG: @ASTROVPNLINK
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@185.141.227.244:9444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=tcp#Сервер 5 | TG: @ASTROVPNLINK
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@185.141.227.118:9444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&fp=firefox&type=tcp#Сервер 6 | TG: @ASTROVPNLINK
-vless://ba48b284-6c83-46fd-ac91-91acd6262bcf@46.254.17.58:80?encryption=none&type=grpc&serviceName=grpc&security=none#Сервер 7 | TG: @ASTROVPNLINK
-vless://673d1e0c-7fe5-48bd-bca1-d0f63facc948@31.129.42.56:80?encryption=none&type=grpc&serviceName=grpc&security=none#Сервер 8 | TG: @ASTROVPNLINK
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&security=none&type=tcp#Сервер 9 | TG: @ASTROVPNLINK
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&fp=chrome&type=tcp#Сервер 10 | TG: @ASTROVPNLINK
-vless://c0aa0cee-e855-4bcc-9afc-46241cb17990@109.120.152.19:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=fast_s89.screw.page&fp=firefox&type=tcp#Сервер 11 | TG: @ASTROVPNLINK
-vless://881cbd87-6cc3-41f9-9d4c-303fa2f8deab@yt-noads.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=shopper.applepie-recipe.ru&fp=qq&alpn=http/1.1&type=tcp#Сервер 12 | TG: @ASTROVPNLINK
+ vless://94878fe1-5e8b-4676-9ee0-a90267a596e5@144.31.27.179:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=site.rumedia-cdn.com&fp=qq&pbk=8jwT95mGT7dW1VkMVt8vtwbWLgHN39tnhnt6PN1FTmU&sid=b08c5eb124a5877e&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A5%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8
+vless://155c6f96-4ceb-4438-b6e6-c119e43efabc@193.23.3.184:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=aviasales.com&fp=edge&pbk=MtmQRo_fBuvzEa7gFKDrTrJhtn0DcIq-IJNTupxZJSc&sid=9f&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%BB%E2%9A%A1%EF%B8%8F%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F
+
+   vless://155c6f96-4ceb-4438-b6e6-c119e43efabc@dev.homeston.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dev.homeston.space&fp=edge&pbk=xIbs1fXscfNgz_ZIzg8XEG0iPoZnl9HUn9kkKvDyDho&sid=14&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%E2%9A%A1%EF%B8%8F%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
+vless://155c6f96-4ceb-4438-b6e6-c119e43efabc@den.homeston.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=den.homeston.space&fp=edge&pbk=JZ-JMdenLtpZb6J991KB0-3T92rACohEpDtqt2M--hs&sid=17&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vless://155c6f96-4ceb-4438-b6e6-c119e43efabc@77.110.125.143:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=aviasales.com&fp=edge&pbk=MtmQRo_fBuvzEa7gFKDrTrJhtn0DcIq-IJNTupxZJSc&sid=9f&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%D0%A1%D0%A8%D0%90
+vless://e9f67e27-f269-4dd8-8cb7-2281fa2fede5@31.76.21.111:52610?encryption=mlkem768x25519plus.native.0rtt.81v4M2zT2d7WOF84cR0ruUfDKkCNlH-aAGYPoR6yGlU&security=reality&sni=okko.tv&fp=edge&pbk=Nd1Efm_-pq3EJNcQU5WOU7d2lSgjtc5JFxLFQjQP-nA&sid=7bf016de036a78&spx=%2F2IBHxTaSY0KodW6&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AEFinland%2C%20Helsinki%20%5B10gbit%2Fs%5D%20%231
