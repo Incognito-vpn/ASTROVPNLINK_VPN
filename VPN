@@ -7,7 +7,7 @@ configurations are taken from open sources
 #support-url: https://telegram.me/ASTROVPNLINK
 #profile-web-page-url: https://telegram.me/ASTROVPNLINK
 #announce:Не работает телеграмм - попробуйте другой сервер, Подпишитесь на наш канал - это единственная ваша поддержка для нас
-#subscription-userinfo: upload=1; download=1; total=1; expire=200000000000
+#subscription-userinfo: upload=0; download=0; total=0; expire=200000000000
 
 
 
