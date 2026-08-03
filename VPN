@@ -6,7 +6,7 @@ configurations are taken from open sources
 #profile-update-interval: 12
 #support-url: https://telegram.me/ASTROVPNLINK
 #profile-web-page-url: https://telegram.me/ASTROVPNLINK
-#announce:Не работает телеграмм - попробуйте другой сервер, Подпишитесь на наш канал - это единственная ваша поддержка для нас
+#announce:@ASTROVPNLINK, Подпишитесь на наш канал - это единственная ваша поддержка для нас
 #subscription-userinfo: upload=0; download=0; total=0; expire=200000000000
 
 vless://546cf4fe-fccb-48b6-ba90-027e4aa4ecc7@159.194.200.175.fwqfw783rg2dad.website:443?encryption=none&security=tls&sni=159.194.200.175.fwqfw783rg2dad.website&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fwebsocket%3Fed%3D2560#%F0%9F%87%B7%F0%9F%87%BA%20YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%20%7C%20TG%3A%20%40ASTROVPNLINK
@@ -27,3 +27,4 @@ vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@us.musicwave.net:443?flow=xtls-rprx
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@fw.ch-moltisanti.ru:8443?encryption=none&security=reality&sni=fw.ch-moltisanti.ru&fp=firefox&pbk=-NZHYgZ9TqbGhZhmpYAR-vHTU12MqxC53nQ1pfz-h38&sid=e0a74f1dfdfd&spx=%2F&type=xhttp&mode=auto&host=fw.ch-moltisanti.ru&path=%2Fapi%2F#%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%7C%20TG%3A%20%40ASTROVPNLINK
 vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?encryption=none&security=tls&sni=cdn.tracker.yandex.net&alpn=http%2F1.1&fp=firefox&type=ws&host=live.arenapulse.link&path=%2Fapi%2Fv1%2Fmatch%2F2c61c5d0e6%2Fsocket#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%7C%20TG%3A%20%40ASTROVPNLINK
 vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?encryption=none&security=tls&sni=cdn.tracker.yandex.net&alpn=http%2F1.1&fp=firefox&type=ws&host=live.arenapulse.link&path=%2Fapi%2Fv1%2Fmatch%2F2c61c5d0e6%2Fsocket#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%202%20%7C%20TG%3A%20%40ASTROVPNLINK
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@130.17.2.67:4100?encryption=none&security=none&type=ws&path=%2Fv1#%F0%9F%87%AA%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%7C%20TG%3A%20%40ASTROVPNLINK
