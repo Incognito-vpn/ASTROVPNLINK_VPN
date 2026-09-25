@@ -9,17 +9,19 @@ configurations are taken from open sources
 #announce:@ASTROVPNLINK,Подпишитесь на наш канал - это единственная ваша поддержка для нас
 #subscription-userinfo: upload=0; download=0; total=0; expire=200000000000
 
+vless://067ec4d1-2039-44b8-9638-c60479a5ae64@93.190.8.165:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷%20Турция%20%7C%20TG%3A%20%40ASTROVPNLINK
+vless://067ec4d1-2039-44b8-9638-c60479a5ae64@185.87.24.9:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇺🇸%20США%20%7C%20TG%3A%20%40ASTROVPNLINK
+vless://067ec4d1-2039-44b8-9638-c60479a5ae64@93.190.9.62:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷%20Турция%20%7C%20TG%3A%20%40ASTROVPNLINK
+vless://067ec4d1-2039-44b8-9638-c60479a5ae64@93.190.9.62:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷%20Турция%20%7C%20TG%3A%20%40ASTROVPNLINK
+vless://067ec4d1-2039-44b8-9638-c60479a5ae64@37.221.110.11:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇬🇧%20Великобритания%20%7C%20TG%3A%20%40ASTROVPNLINK
+vless://067ec4d1-2039-44b8-9638-c60479a5ae64@93.190.8.165:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷%20Турция%20%7C%20TG%3A%20%40ASTROVPNLINK
+vless://067ec4d1-2039-44b8-9638-c60479a5ae64@185.87.24.9:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇺🇸%20США%20%7C%20TG%3A%20%40ASTROVPNLINK
+vless://067ec4d1-2039-44b8-9638-c60479a5ae64@93.190.9.62:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷%20Турция%20%7C%20TG%3A%20%40ASTROVPNLINK
+vless://067ec4d1-2039-44b8-9638-c60479a5ae64@93.190.9.62:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷%20Турция%20%7C%20TG%3A%20%40ASTROVPNLINK
+vless://067ec4d1-2039-44b8-9638-c60479a5ae64@37.221.110.11:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇬🇧%20Великобритания%20%7C%20TG%3A%20%40ASTROVPNLINK
 
-vless://8a258586-34ed-461c-bc95-26dfb49a7aa9@153.76.185.99:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿%20Чехия%20%7C%20TG%3A%20%40ASTROVPNLINK
-vless://8a258586-34ed-461c-bc95-26dfb49a7aa9@93.190.9.23:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷%20Турция%20%7C%20TG%3A%20%40ASTROVPNLINK
-vless://8a258586-34ed-461c-bc95-26dfb49a7aa9@194.87.59.8:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿%20Чехия%20%7C%20TG%3A%20%40ASTROVPNLINK
-vless://8a258586-34ed-461c-bc95-26dfb49a7aa9@194.87.59.106:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿%20Чехия%20%7C%20TG%3A%20%40ASTROVPNLINK
-vless://8a258586-34ed-461c-bc95-26dfb49a7aa9@153.76.185.187:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿%20Чехия%20%7C%20TG%3A%20%40ASTROVPNLINK
-vless://8a258586-34ed-461c-bc95-26dfb49a7aa9@153.76.185.99:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿%20Чехия%20%7C%20TG%3A%20%40ASTROVPNLINK
-vless://8a258586-34ed-461c-bc95-26dfb49a7aa9@93.190.9.23:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷%20Турция%20%7C%20TG%3A%20%40ASTROVPNLINK
-vless://8a258586-34ed-461c-bc95-26dfb49a7aa9@194.87.59.8:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿%20Чехия%20%7C%20TG%3A%20%40ASTROVPNLINK
-vless://8a258586-34ed-461c-bc95-26dfb49a7aa9@194.87.59.106:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿%20Чехия%20%7C%20TG%3A%20%40ASTROVPNLINK
-vless://8a258586-34ed-461c-bc95-26dfb49a7aa9@153.76.185.187:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿%20Чехия%20%7C%20TG%3A%20%40ASTROVPNLINK
+
+
 trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicd.moritech.net:443?security=tls&sni=cz-musicd.moritech.net&alpn=h2&fp=firefox&type=grpc&mode=gun&authority=&serviceName=grpcbeast#%F0%9F%87%A8%F0%9F%87%BF%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%205%20%7C%20TG%3A%20%40ASTROVPNLINK
 trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicg.moritech.net:443?security=tls&sni=cz-musicg.moritech.net&alpn=h2&fp=firefox&type=grpc&mode=gun&authority=&serviceName=grpcbeast#%F0%9F%87%A8%F0%9F%87%BF%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%208%20%7C%20TG%3A%20%40ASTROVPNLINK
 vless://11f21602-47aa-42e2-9149-69120f2e6df6@130.78.191.25:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nl07.shifor01.life&fp=firefox&pbk=0FwNJ9HYJgVj5566tb0zwjGTPLb-42i-mlXnceB9-Tc&sid=3ac25eef1431b799&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20TG%3A%20%40ASTROVPNLINK
