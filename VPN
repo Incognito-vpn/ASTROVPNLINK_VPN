@@ -9,6 +9,19 @@ configurations are taken from open sources
 #announce:@ASTROVPNLINK,Подпишитесь на наш канал - это единственная ваша поддержка для нас
 #subscription-userinfo: upload=0; download=0; total=0; expire=200000000000
 
+vless://14e227c3-5a83-4b4d-a41a-e5f499c79415@153.76.185.104:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Чехия 1 | TG: @ASTROVPNLINK
+vless://14e227c3-5a83-4b4d-a41a-e5f499c79415@104.143.223.79:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇩🇪 Германия 1 | TG: @ASTROVPNLINK
+vless://14e227c3-5a83-4b4d-a41a-e5f499c79415@93.190.8.117:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 1 | TG: @ASTROVPNLINK
+vless://14e227c3-5a83-4b4d-a41a-e5f499c79415@93.190.9.59:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 2 | TG: @ASTROVPNLINK
+vless://14e227c3-5a83-4b4d-a41a-e5f499c79415@153.76.185.108:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Чехия 2 | TG: @ASTROVPNLINK
+
+
+
+
+
+
+
+
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇷🇺 Белые списки 1 | TG: @ASTROVPNLINK
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.73:9873?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#🇷🇺 Белые списки 2 | TG: @ASTROVPNLINK
 vless://64017d58-1297-4cd0-9a9b-4ec325f411f8@37.139.42.187:8088?encryption=none&security=reality&sni=pic.rutubelist.ru&fp=chrome&pbk=PAP10NLpy_4J_vf1CEtDuLJtce3pLSNhHLbuuAUXqBU&sid=a1b2c3d4&type=grpc&mode=gun&authority=&serviceName=media.ingest.v2.ChunkUploadService#LTE 1 | TG: @ASTROVPNLINK
