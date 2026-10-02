@@ -43,6 +43,9 @@ vless://8aeda8e3-dd32-4071-bcbb-f793e646eb13@13.143.184.226:443?encryption=none&
 vless://933eb45b-0e97-4ed1-bfb9-e34bd0b4342c@185.33.24.85:443?encryption=none&fp=firefox&pbk=M7fn-U9PikoH_WXu6HbDE5bi9ej5cFN8bgWy8qF14WU&security=reality&sid=76f547961a8ca082&sni=a.wb.ru&type=tcp#🇷🇺 Россия 9 | TG: @ASTROVPNLINK
 vless://392df00c-0d98-4793-a3dd-1a2642280a1b@185.73.126.217:50000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dEvwASt7DRDtH_N5VcHkZo2VQxMVDdevaN-xFxmkIDw&security=reality&sid=c8edc5&sni=creators.radeon.com&type=tcp#🇷🇺 Россия 10 | TG: @ASTROVPNLINK
 
-
+vless://8afe0f12-fec0-4a4d-8220-e976ddb00b2b@93.190.8.161:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 1 | TG: @ASTROVPNLINK
+vless://8afe0f12-fec0-4a4d-8220-e976ddb00b2b@93.190.8.90:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 2 | TG: @ASTROVPNLINK
+vless://8afe0f12-fec0-4a4d-8220-e976ddb00b2b@93.190.9.53:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 3 | TG: @ASTROVPNLINK
+vless://8afe0f12-fec0-4a4d-8220-e976ddb00b2b@93.190.9.158:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 4 | TG: @ASTROVPNLINK
 
 
