@@ -9,6 +9,16 @@ configurations are taken from open sources
 #announce:@ASTROVPNLINK,Подпишитесь на наш канал - это единственная ваша поддержка для нас
 #subscription-userinfo: upload=0; download=0; total=0; expire=200000000000
 
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&fp=firefox&type=xhttp&mode=auto&host=dismissaltree.net&path=%2Fapi%2Fv1%2Fupload#🇩🇪 Германия 1 | TG: @ASTROVPNLINK
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&fp=random&type=xhttp&mode=auto&host=dismissaltree.net&path=%2Fapi%2Fv1%2Fupload#🇩🇪 Германия 2 | TG: @ASTROVPNLINK
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@188.225.33.141:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#🇳🇱 Нидерланды 1 | TG: @ASTROVPNLINK
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#🇳🇱 Нидерланды 2 | TG: @ASTROVPNLINK
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&fp=chrome&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#🇫🇮 Финляндия 1 | TG: @ASTROVPNLINK
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&fm=%7B%7D&sni=itsallproxy.quattro-tech.ru#🇷🇺 Россия 1 | TG: @ASTROVPNLINK
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&fm=%7B%7D&sni=hy.quattro-tech.ru#🇷🇺 Россия 2 | TG: @ASTROVPNLINK
+
+
+
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&fp=random&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=dismissaltree.net&mode=auto#🇷🇺 Россия 1 | TG: @ASTROVPNLINK
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.105.186:9892?encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&serviceName=grpc-tunnel#🇩🇪 Германия 1 | TG: @ASTROVPNLINK
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&fp=random&type=ws&path=%2Fapi%2Fconnect&host=wstg.datasynctrue.online#🇷🇺 Россия 2 | TG: @ASTROVPNLINK
