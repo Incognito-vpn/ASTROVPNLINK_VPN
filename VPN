@@ -29,16 +29,16 @@ vless://f0d08cba-8b13-4c70-9c67-ab78f89bed2c@45.145.56.19:443?encryption=none&se
 vless://f0d08cba-8b13-4c70-9c67-ab78f89bed2c@37.9.4.97:443?encryption=none&security=reality&sni=id.pervye.ru&fp=firefox&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&type=grpc&serviceName=ns&authority=id.pervye.ru&mode=gun#🇮🇹 Италия 2 | TG: @ASTROVPNLINK
 
 
-vless://de016ae7-1c89-4fb1-ad57-cca754025dea@93.190.8.90:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 1 | TG: @ASTROVPNLINK
-vless://de016ae7-1c89-4fb1-ad57-cca754025dea@93.190.8.123:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 2 | TG: @ASTROVPNLINK
-vless://de016ae7-1c89-4fb1-ad57-cca754025dea@153.76.185.165:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Чехия 1 | TG: @ASTROVPNLINK
-vless://de016ae7-1c89-4fb1-ad57-cca754025dea@194.87.59.24:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Чехия 2 | TG: @ASTROVPNLINK
-vless://de016ae7-1c89-4fb1-ad57-cca754025dea@93.190.9.32:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 3 | TG: @ASTROVPNLINK
-vless://de016ae7-1c89-4fb1-ad57-cca754025dea@93.190.8.90:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 4 | TG: @ASTROVPNLINK
-vless://de016ae7-1c89-4fb1-ad57-cca754025dea@93.190.8.123:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 5 | TG: @ASTROVPNLINK
-vless://de016ae7-1c89-4fb1-ad57-cca754025dea@153.76.185.165:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Чехия 3 | TG: @ASTROVPNLINK
-vless://de016ae7-1c89-4fb1-ad57-cca754025dea@194.87.59.24:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Чехия 4 | TG: @ASTROVPNLINK
-vless://de016ae7-1c89-4fb1-ad57-cca754025dea@93.190.9.32:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 6 | TG: @ASTROVPNLINK
+vless://ae49a226-0d42-45d2-a865-0ae11a63063f@194.87.59.31:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Чехия 1 | TG: @ASTROVPNLINK
+vless://ae49a226-0d42-45d2-a865-0ae11a63063f@93.190.9.106:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇬🇪 Грузия 1 | TG: @ASTROVPNLINK
+vless://ae49a226-0d42-45d2-a865-0ae11a63063f@104.143.223.223:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇩🇪 Германия 1 | TG: @ASTROVPNLINK
+vless://ae49a226-0d42-45d2-a865-0ae11a63063f@104.143.223.57:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇩🇪 Германия 2 | TG: @ASTROVPNLINK
+vless://ae49a226-0d42-45d2-a865-0ae11a63063f@93.190.9.228:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 1 | TG: @ASTROVPNLINK
+vless://ae49a226-0d42-45d2-a865-0ae11a63063f@194.87.59.31:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Чехия 2 | TG: @ASTROVPNLINK
+vless://ae49a226-0d42-45d2-a865-0ae11a63063f@93.190.9.106:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇬🇪 Грузия 2 | TG: @ASTROVPNLINK
+vless://ae49a226-0d42-45d2-a865-0ae11a63063f@104.143.223.223:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇩🇪 Германия 3 | TG: @ASTROVPNLINK
+vless://ae49a226-0d42-45d2-a865-0ae11a63063f@104.143.223.57:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇩🇪 Германия 4 | TG: @ASTROVPNLINK
+vless://ae49a226-0d42-45d2-a865-0ae11a63063f@93.190.9.228:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 2 | TG: @ASTROVPNLINK
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&fp=firefox&type=xhttp&mode=auto&host=dismissaltree.net&path=%2Fapi%2Fv1%2Fupload#🇩🇪 Германия 1 | TG: @ASTROVPNLINK
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&fp=random&type=xhttp&mode=auto&host=dismissaltree.net&path=%2Fapi%2Fv1%2Fupload#🇩🇪 Германия 2 | TG: @ASTROVPNLINK
