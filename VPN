@@ -57,16 +57,16 @@ vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?encryption=n
 vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?encryption=none&security=tls&sni=fbsv6.guardora.pro&alpn=http%2F1.1&fp=random&allowInsecure=1&insecure=1&type=ws&path=%2Fws&host=fbsv6.guardora.pro#🇪🇺 Европа 3 | TG: @ASTROVPNLINK
 vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?encryption=none&security=tls&sni=fbsv6.guardora.pro&allowInsecure=1&insecure=1&type=ws&path=%2Fws&host=fbsv6.guardora.pro#🇪🇺 Европа 4 | TG: @ASTROVPNLINK
 
-vless://ae49a226-0d42-45d2-a865-0ae11a63063f@194.87.59.31:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Чехия 1 | TG: @ASTROVPNLINK
-vless://ae49a226-0d42-45d2-a865-0ae11a63063f@93.190.9.106:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇬🇪 Грузия 1 | TG: @ASTROVPNLINK
-vless://ae49a226-0d42-45d2-a865-0ae11a63063f@104.143.223.223:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇩🇪 Германия 1 | TG: @ASTROVPNLINK
-vless://ae49a226-0d42-45d2-a865-0ae11a63063f@104.143.223.57:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇩🇪 Германия 2 | TG: @ASTROVPNLINK
-vless://ae49a226-0d42-45d2-a865-0ae11a63063f@93.190.9.228:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 1 | TG: @ASTROVPNLINK
-vless://ae49a226-0d42-45d2-a865-0ae11a63063f@194.87.59.31:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Чехия 2 | TG: @ASTROVPNLINK
-vless://ae49a226-0d42-45d2-a865-0ae11a63063f@93.190.9.106:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇬🇪 Грузия 2 | TG: @ASTROVPNLINK
-vless://ae49a226-0d42-45d2-a865-0ae11a63063f@104.143.223.223:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇩🇪 Германия 3 | TG: @ASTROVPNLINK
-vless://ae49a226-0d42-45d2-a865-0ae11a63063f@104.143.223.57:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇩🇪 Германия 4 | TG: @ASTROVPNLINK
-vless://ae49a226-0d42-45d2-a865-0ae11a63063f@93.190.9.228:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 2 | TG: @ASTROVPNLINK
+vless://4b35ea09-df2c-487f-9669-8e3756491677@86.62.52.119:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇳🇱 Нидерланды 1 | TG: @ASTROVPNLINK
+vless://4b35ea09-df2c-487f-9669-8e3756491677@93.190.8.168:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 1 | TG: @ASTROVPNLINK
+vless://4b35ea09-df2c-487f-9669-8e3756491677@93.190.9.230:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 2 | TG: @ASTROVPNLINK
+vless://4b35ea09-df2c-487f-9669-8e3756491677@93.190.9.17:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 3 | TG: @ASTROVPNLINK
+vless://4b35ea09-df2c-487f-9669-8e3756491677@93.190.9.160:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 4 | TG: @ASTROVPNLINK
+vless://4b35ea09-df2c-487f-9669-8e3756491677@86.62.52.119:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇳🇱 Нидерланды 2 | TG: @ASTROVPNLINK
+vless://4b35ea09-df2c-487f-9669-8e3756491677@93.190.8.168:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 5 | TG: @ASTROVPNLINK
+vless://4b35ea09-df2c-487f-9669-8e3756491677@93.190.9.230:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 6 | TG: @ASTROVPNLINK
+vless://4b35ea09-df2c-487f-9669-8e3756491677@93.190.9.17:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 7 | TG: @ASTROVPNLINK
+vless://4b35ea09-df2c-487f-9669-8e3756491677@93.190.9.160:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция 8 | TG: @ASTROVPNLINK
 
 
 
