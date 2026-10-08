@@ -13,14 +13,16 @@ configurations are taken from open sources
 
 
 
-vless://b1cbc35c-4df6-42c8-92bf-c7f5a364d117@104.143.223.227:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 1 🇩🇪 Германия 1 | TG: @ASTROVPNLINK
-vless://b1cbc35c-4df6-42c8-92bf-c7f5a364d117@93.190.9.62:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 2 🇹🇷 Турция 1 | TG: @ASTROVPNLINK
-vless://b1cbc35c-4df6-42c8-92bf-c7f5a364d117@194.87.59.30:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 3 🇨🇿 Чехия 1 | TG: @ASTROVPNLINK
-vless://b1cbc35c-4df6-42c8-92bf-c7f5a364d117@153.76.185.157:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 4 🇺🇸 США 1 | TG: @ASTROVPNLINK
-vless://b1cbc35c-4df6-42c8-92bf-c7f5a364d117@93.190.9.194:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 5 🇹🇷 Турция 2 | TG: @ASTROVPNLINK
-vless://b1cbc35c-4df6-42c8-92bf-c7f5a364d117@104.143.223.227:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 6 🇩🇪 Германия 2 | TG: @ASTROVPNLINK
-vless://b1cbc35c-4df6-42c8-92bf-c7f5a364d117@93.190.9.62:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 7 🇹🇷 Турция 3 | TG: @ASTROVPNLINK
-vless://b1cbc35c-4df6-42c8-92bf-c7f5a364d117@194.87.59.30:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 8 🇨🇿 Чехия 2 | TG: @ASTROVPNLINK
+vless://fc9781ef-af96-4f6d-9b15-ba2ba2d9bc0a@93.190.8.27:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 1 🇹🇷 Турция 1 | TG: @ASTROVPNLINK
+vless://fc9781ef-af96-4f6d-9b15-ba2ba2d9bc0a@93.190.8.142:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 2 🇹🇷 Турция 2 | TG: @ASTROVPNLINK
+vless://fc9781ef-af96-4f6d-9b15-ba2ba2d9bc0a@194.87.59.34:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 3 🇨🇿 Чехия 1 | TG: @ASTROVPNLINK
+vless://fc9781ef-af96-4f6d-9b15-ba2ba2d9bc0a@93.190.8.123:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 4 🇹🇷 Турция 3 | TG: @ASTROVPNLINK
+vless://fc9781ef-af96-4f6d-9b15-ba2ba2d9bc0a@194.87.59.32:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 5 🇨🇿 Чехия 2 | TG: @ASTROVPNLINK
+vless://fc9781ef-af96-4f6d-9b15-ba2ba2d9bc0a@93.190.8.27:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 6 🇹🇷 Турция 4 | TG: @ASTROVPNLINK
+vless://fc9781ef-af96-4f6d-9b15-ba2ba2d9bc0a@93.190.8.142:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 7 🇹🇷 Турция 5 | TG: @ASTROVPNLINK
+vless://fc9781ef-af96-4f6d-9b15-ba2ba2d9bc0a@194.87.59.34:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 8 🇨🇿 Чехия 3 | TG: @ASTROVPNLINK
+vless://fc9781ef-af96-4f6d-9b15-ba2ba2d9bc0a@93.190.8.123:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 9 🇹🇷 Турция 6 | TG: @ASTROVPNLINK
+vless://fc9781ef-af96-4f6d-9b15-ba2ba2d9bc0a@194.87.59.32:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI 10 🇨🇿 Чехия 4 | TG: @ASTROVPNLINK
 
  vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.site&fp=qq&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp#10 🇫🇮 Финляндия 1 | TG: @ASTROVPNLINK
  vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.site&fp=qq&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp#11 🇫🇮 Финляндия 2 | TG: @ASTROVPNLINK
